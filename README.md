@@ -1,4 +1,4 @@
-Simple-Groupware-Bootstrap
-==========================
+Simple-Groupware
+================
 
-a patched version of Simple Groupware v0.745
+Simple Groupware v0.745
